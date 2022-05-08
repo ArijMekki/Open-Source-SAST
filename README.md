@@ -50,8 +50,7 @@ For more information about how Static Code Analysis work check the following art
 
 ### Requirements
 
-You need to install [Docker](https://github.com/ArijMekki/Open-Source-SAST/blob/main/Docker.md) and [Docker compose](https://github.com/ArijMekki/Open-Source-
-SAST/blob/main/Docker_Compose.md) in order to run the Semgrep and [ELK](https://github.com/ArijMekki/Open-Source-SAST/blob/main/ELK.md) images.
+You need to install [Docker](https://github.com/ArijMekki/Open-Source-SAST/blob/main/Docker.md) and [Docker compose](https://github.com/ArijMekki/Open-Source-SAST/blob/main/Docker_Compose.md) in order to run the Semgrep and [ELK](https://github.com/ArijMekki/Open-Source-SAST/blob/main/ELK.md) images.
 
 ### Installation
 
