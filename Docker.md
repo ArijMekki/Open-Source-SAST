@@ -1,5 +1,5 @@
 # Docker Installation
-We begin by updating the Software Repository:
+We begin by updating the Software Repository </br>
 `$sudo apt update`
 Then we download used dependencies
 `$sudo apt-get install apt-transport-https ca-certificates curl software-properties-common`
