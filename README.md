@@ -17,8 +17,8 @@ For more information about how Static Code Analysis work check the following art
 - [A hands-on introduction to static code analysis](https://deepsource.io/blog/introduction-static-code-analysis/)
 # Open Source SAST tools
 ## Semgrep
-### what is Semgrep?
+### What is Semgrep?
 ![This is an image](https://raw.githubusercontent.com/returntocorp/semgrep/develop/semgrep.svg)
-- Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time. Get started →
+- Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time.
 - Semgrep analyzes code locally on the computer or in the build environment: code is never uploaded.
 - Semgrep supports 20+ languages [Link](https://semgrep.dev/docs/).
