@@ -23,7 +23,7 @@ For more information about how Static Code Analysis work check the following art
 - Semgrep analyzes code locally on the computer or in the build environment: code is never uploaded.
 - Semgrep supports 20+ languages [Link](https://semgrep.dev/docs/).
 ### Requirements
-1 You need to install [**Docker**](https://github.com/ArijMekki/Open-Source-SAST/blob/main/Docker.md) and **Docker compose** in order to run the **Semgrep** and **ELK** images.
+1 You need to install [Docker](https://github.com/ArijMekki/Open-Source-SAST/blob/main/Docker.md) and [Docker compose](https://github.com/ArijMekki/Open-Source-SAST/blob/main/Docker_Compose.md) in order to run the Semgrep and ELK images.
 ### Installation
 ### Usage
 
