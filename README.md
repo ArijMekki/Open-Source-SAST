@@ -1,4 +1,13 @@
-# Open-Source-SAST
 # What is SAST? 
-SAST solutions may be thought of as white-hat or white-box testing, in which the tester is aware of information about the system or software program being tested, which include an architecture diagram, access to application source code, etc. SAST solution examine source code (at rest) to identify and report vulnerabilities that can cause security vulnerabilities.
-Source-code analyzers can run on non-compiled code to check for defects including numerical errors, input validation, path traversals, pointers and references, and more. Binary and byte-code analyzers do the same on built and compiled code. Some solutions run on software source code only, a few on compiled code only, and a few on both.
+Static Application Security Testing or SAST is an Application Security Tool. It is used to test an application’s binary, source, or byte code during the development cycle or code reviews. A white-box testing solution can discover the root cause of vulnerabilities and help in remedying the underlying security defects. Many SAST application can analyze source code inside-out and it doesn’t require a running system for performing a code evaluation to locate security weaknesses.
+Static application security scanning can reduce security vulnerabilities in programs by presenting immediate remarks to developers on problems introduced in the application source code during the application security testing. So, it educates developers about security flaws when they're working, providing them real-time access to line-of-code navigation and recommendations that allow quicker collaborative auditing and vulnerability discovery. A SAST solution aid developers create secure code that is much less vulnerable to compromise and leads to the development of a more secure software.
+The term 'Static Code Analysis' is used to refer to program comprehension. SAST is an automated tool for secure code review.
+# what are SAST advantages?
+- Examine the codebase of a software in a single test
+- Test a software before compiling or running the code
+- Identify vulnerabilities early in the software program SDLC. At this phase vulnerability are simplest and cheapest to fix
+- Reduction in manual evaluation efforts by an analyst.
+- Effective and efficient in identifying all the instances of a specific vulnerability.
+- Scans source code to discover weaknesses that cause vulnerabilities
+- Provides real-time reporting
+- Cover multiple languages that developers use.
