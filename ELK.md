@@ -1,5 +1,5 @@
 # ELK installation
-- you start by installing the github repository below:
+- You start by installing the github repository below:
 
   `$git clone https://github.com/deviantony/docker-elk.git`
   
@@ -12,7 +12,7 @@
 - After a few second, you can verify that everything is running as expected by executing the command below:
 
   `$docker ps`
-  
-  
-  > You can access kibana interface by entering http://localhost:5601
+
+
+> You can access kibana interface by entering http://localhost:5601
 
