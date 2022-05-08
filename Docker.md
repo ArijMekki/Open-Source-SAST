@@ -2,6 +2,7 @@
 We begin by updating the Software Repository:
 '$sudo apt update'
 Then we download used dependencies
+
 > $sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
 After that, we add Docker’s GPG Key
 > $curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
