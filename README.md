@@ -22,3 +22,8 @@ For more information about how Static Code Analysis work check the following art
 - Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time.
 - Semgrep analyzes code locally on the computer or in the build environment: code is never uploaded.
 - Semgrep supports 20+ languages [Link](https://semgrep.dev/docs/).
+### Requirements
+1 You need to install **Docker** and **Docker compose** in order to run the **Semgrep** and **ELK** images.
+### Installation
+### Usage
+
