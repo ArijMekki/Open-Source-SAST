@@ -13,5 +13,12 @@ The term 'Static Code Analysis' is used to refer to program comprehension. SAST 
 - Cover multiple languages that developers use.
 # How Does Static Code Analysis Work?
 ![This is an image](https://deepsource.io/images/blog/static-analysis-python/pipeline.png)
-For more information about Static code Analysis steps check the following articles:
+For more information about how Static Code Analysis work check the following article:
 - [A hands-on introduction to static code analysis](https://deepsource.io/blog/introduction-static-code-analysis/)
+# Open Source SAST tools
+## Semgrep
+### what is Semgrep?
+![This is an image](https://raw.githubusercontent.com/returntocorp/semgrep/develop/semgrep.svg)
+- Semgrep is a fast, open-source, static analysis tool for finding bugs and enforcing code standards at editor, commit, and CI time. Get started →
+- Semgrep analyzes code locally on the computer or in the build environment: code is never uploaded.
+- Semgrep supports 20+ languages [Link](https://semgrep.dev/docs/).
