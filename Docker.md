@@ -1,6 +1,6 @@
-*******************************************************************Docker Installation************************************************************************************
+# Docker Installation
 We begin by updating the Software Repository:
-> $sudo apt update
+'$sudo apt update'
 Then we download used dependencies
 > $sudo apt-get install apt-transport-https ca-certificates curl software-properties-common
 After that, we add Docker’s GPG Key
