@@ -74,7 +74,7 @@ To verify your installation:
 
   `$docker run  -v "${PWD}:/src" returntocorp/semgrep scan --config=./semgrep-rules/php/  ./vulnerable-php-code-examples/ --json  -o semgrep1.json`
   
-  > This tool displays the result of the analysis on the command line, that's why we will send the output of this tool to the ELK stack to improve the visualization of the results.  
+  > This tool displays the result of the analysis on the command line, that's why we will add the output of this tool to the ELK stack to improve the visualization of the results.  
 
 - The first step to do so is to create an Elasticsearch index for this tool:
 
