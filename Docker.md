@@ -1,4 +1,4 @@
-# Docker Installation
+*******************************************************************Docker Installation************************************************************************************
 We begin by updating the Software Repository:
 > $sudo apt update
 Then we download used dependencies
